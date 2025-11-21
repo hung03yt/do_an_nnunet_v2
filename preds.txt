@@ -1,0 +1,4 @@
+C:\Users\PC\nnUNet_predictions_val_fold0\la_007.nii.gz
+C:\Users\PC\nnUNet_predictions_val_fold0\la_016.nii.gz
+C:\Users\PC\nnUNet_predictions_val_fold0\la_021.nii.gz
+C:\Users\PC\nnUNet_predictions_val_fold0\la_024.nii.gz

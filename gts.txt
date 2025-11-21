@@ -1,0 +1,4 @@
+C:\Users\PC\nnUNet_raw\Dataset002_Heart\labelsTr\la_007.nii.gz
+C:\Users\PC\nnUNet_raw\Dataset002_Heart\labelsTr\la_016.nii.gz
+C:\Users\PC\nnUNet_raw\Dataset002_Heart\labelsTr\la_021.nii.gz
+C:\Users\PC\nnUNet_raw\Dataset002_Heart\labelsTr\la_024.nii.gz
